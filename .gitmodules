@@ -1,0 +1,6 @@
+[submodule "Price-Tracker"]
+	path = Price-Tracker
+	url = https://github.com/mohamedsennia/price-tracker-backend
+[submodule "Price-tracker-front/price-tracker"]
+	path = Price-tracker-front/price-tracker
+	url = https://github.com/mohamedsennia/price-tracker-frontend

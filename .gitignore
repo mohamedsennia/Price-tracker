@@ -1,0 +1,42 @@
+# See http://help.github.com/ignore-files/ for more about ignoring files.
+
+# Compiled output
+/Price-tracker-front/price-tracker/dist
+/Price-tracker-front/price-tracker/tmp
+/Price-tracker-front/price-tracker/out-tsc
+/Price-tracker-front/price-tracker/bazel-out
+/Price-tracker/dockerfile
+# Node
+/Price-tracker-front/price-tracker/node_modules
+/Price-tracker-front/price-trackernpm-debug.log
+/Price-tracker-front/price-trackeryarn-error.log
+
+# IDEs and editors
+.idea/
+.project
+.classpath
+.c9/
+*.launch
+.settings/
+*.sublime-workspace
+
+# Visual Studio Code
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+.history/*
+
+# Miscellaneous
+/.angular/cache
+.sass-cache/
+/connect.lock
+/coverage
+/libpeerconnection.log
+testem.log
+/typings
+
+# System files
+.DS_Store
+Thumbs.db
